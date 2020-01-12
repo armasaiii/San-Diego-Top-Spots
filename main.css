@@ -1,0 +1,21 @@
+
+h1 {
+    text-align: center;
+}
+
+body {
+    border: solid red 2px;
+}
+
+table {
+    width: 800px;
+    
+}
+
+table td {
+    border: solid blue 1px;
+}
+
+tr {
+    border: solid black .5px;
+}
